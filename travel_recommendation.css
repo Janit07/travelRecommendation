@@ -30,7 +30,10 @@ nav {
   
   /* Basic CSS for the form elements */
   body {
-    background-image: url("https://images.app.goo.gl/vqsHBUrrR4MDXggc9");
+    background-image: url("dubai.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: ;
     font-family: Arial, sans-serif;
     /* margin: 20px; */
   }
