@@ -33,7 +33,7 @@ nav {
     background-image: url("dubai.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: ;
+    background-attachment: scroll;
     font-family: Arial, sans-serif;
     /* margin: 20px; */
   }
